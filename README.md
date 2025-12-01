@@ -10,7 +10,7 @@ Starter code for playing models: https://github.com/everestso/summer25/blob/main
 
 Watch how performance improves as training progresses:
 
-| Model | Preview | Video |
-|--------|---------|--------|
-| `Baseline 50`  | <img src="docs/thumb_-20.png" width="120"/> | <a href="https://github.com/ntmdrgl/CSCI-166-DQN-Atari-Project/blob/main/Videos/demonattack_demo_baseline_50.mp4" target="_blank">▶ Watch</a> |
-| `Baseline 300`  | <img src="docs/thumb_-10.png" width="120"/> | <a href="https://github.com/ntmdrgl/CSCI-166-DQN-Atari-Project/blob/main/Videos/demonattack_demo_baseline_300.mp4" target="_blank">▶ Watch</a> |
+| Model | Video |
+|--------|--------|
+| `Baseline 50`  | <a href="https://github.com/ntmdrgl/CSCI-166-DQN-Atari-Project/blob/main/Videos/demonattack_demo_baseline_50.mp4" target="_blank">▶ Watch</a> |
+| `Baseline 300`  | <a href="https://github.com/ntmdrgl/CSCI-166-DQN-Atari-Project/blob/main/Videos/demonattack_demo_baseline_300.mp4" target="_blank">▶ Watch</a> |

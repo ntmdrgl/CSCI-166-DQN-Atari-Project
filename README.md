@@ -14,4 +14,4 @@ Watch how performance improves as training progresses:
 |--------|--------|--------|
 | `Baseline` | `50` | <a href="https://github.com/ntmdrgl/CSCI-166-DQN-Atari-Project/blob/main/Videos/demonattack_demo_baseline_50.mp4" target="_blank">▶ Watch</a> |
 | `Baseline` | `300` | <a href="https://github.com/ntmdrgl/CSCI-166-DQN-Atari-Project/blob/main/Videos/demonattack_demo_baseline_300.mp4" target="_blank">▶ Watch</a> |
-| `DDQB + Dueling` | `475` | <a href="https://github.com/ntmdrgl/CSCI-166-DQN-Atari-Project/blob/main/Videos/demonattack_demo_new_475.mp4" target="_blank">▶ Watch</a> |
+| `DDQN + Dueling` | `475` | <a href="https://github.com/ntmdrgl/CSCI-166-DQN-Atari-Project/blob/main/Videos/demonattack_demo_new_475.mp4" target="_blank">▶ Watch</a> |
